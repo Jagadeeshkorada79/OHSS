@@ -1,0 +1,16 @@
+PENDING DUETIES:
+22/5/21
+- link logged user can only update their log details.
+- update specific columns.
+- image upload,show,remove,update.
+- display profile of a logged person.
+- diaplay the data in a table.
+- give can't edit some specific coloumns like id,marks.
+- give notifications when data uploaded.
+- give acceptence , rejectness, status .
+- apply js for some coloumns like email,phone number.
+
+1-6-21
+chief.php
+-how to add a number format and increase the room mate number by it while loop .
+
